@@ -1,6 +1,6 @@
 # Copyright (C) 2001-2007 Python Software Foundation
 # Author: Barry Warsaw
-# Contact: email-sig@python.org
+# Contact: emai. qusaialkateeb1@gmail.com
 
 """A package for parsing, handling, and generating email messages."""
 
